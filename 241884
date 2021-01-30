@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="theme-color" content="#212121"> 
+    <meta name="msapplication-navbutton-color" content="#212121">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#212121">
+    <style>
+    	*{
+    	color: red;
+    	}
+    </style>
+    </head>
+    <body>
+    	<!-- this is an example code, made with htmlCoder.py -->
+        <em>Hello, World</em>
+    </body>
+</html>
